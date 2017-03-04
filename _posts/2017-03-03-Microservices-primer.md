@@ -1,5 +1,6 @@
 ---
 title:  "Microservices Primer"
+permalink: microservices-primer.html
 categories: microservice introduction
 summary: "The Microservices Primer gives a short introduction to Microservices."
 tags: [microservice, introduction, getting_started, Eberhard Wolff]
