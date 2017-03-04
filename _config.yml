@@ -1,1 +1,18 @@
 theme: jekyll-theme-architect
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+#  dribbble:
+  email:
+#  facebook:
+#  flickr:
+  github: barryclark/jekyll-now
+#  instagram:
+linkedin:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-508750-23
