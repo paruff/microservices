@@ -23,9 +23,9 @@ google_analytics: UA-508750-23
 #  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - LICENSE
+#  - README.md
+#  - CNAME
