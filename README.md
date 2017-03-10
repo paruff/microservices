@@ -3,25 +3,25 @@
 
 ## Links
 
-Implement DB as a service.
-Does MongoDB provide a REST interface?
+### Implement DB as a service.
+* Does MongoDB provide a REST interface?
 
-Replication.
-Service should hide the replication.
-Research/devise patterns.
-Implement database replication for Piper.
+### Replication.
+* Service should hide the replication.
+* Research/devise patterns.
+* Implement database replication for Piper.
 
-Elasticity.
+### Elasticity.
 
-Authentication and authorization.
-TAM integration.
-Patterns: e.g., individual user authentication at the service versus at the end use application.
+### Authentication and authorization.
+* TAM integration.
+* Patterns: e.g., individual user authentication at the service versus at the end use application.
 
-Encryption.
-TLS.
-IP6.
-Encryption of secret stores (e.g., etcd).
-AWS: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-agent-config.html
+### Encryption.
+* TLS.
+* IP6.
+* Encryption of secret stores (e.g., etcd).
+* AWS: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-agent-config.html
 
 Multi-tenancy.
 Brian’s talk.
